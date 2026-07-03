@@ -1,34 +1,56 @@
+<!-- BANNER -->
 <div align="center">
+  <img src="https://file.garden/aiDPtHaSGigyN1-N/heart-hearts.gif" width="25%">
+  <img src="https://i.pinimg.com/1200x/1b/b5/16/1bb516afdb90aea098d92624ff89d4e9.jpg" width="30%">
+  <img src="https://file.garden/aiDPtHaSGigyN1-N/heart-hearts.gif" width="25%">
+</div>
+<!--TITLE TEXT-->
+<div align="center">
+  <h1><strong><b>Dylan's Komahina corner</b></strong></h1>
+  <br>
+    <img src="https://i.imgur.com/cBXQri4.gif" width="100%">
+  <br>
+  <br>
+  <br>
+</div>
+<!--TABLE-->
+<!--LEFT PICTURES-->
+<table align="center">
+<tr>
 
-  <!-- TOP GRAPHIC (e.g., Red Roses) -->
-  <img src="https://i.pinimg.com/736x/68/7d/af/687daff2f4cc933897e983528c00f556.jpg" width="450" alt="Header Banner">
+<td valign="top" width="310">
+<br>
+<img src="https://i.pinimg.com/736x/64/92/30/64923034e2e1b173e70fa8ded8516abe.jpg" width="215">
+<img src="https://i.postimg.cc/Hsj5W3fM/IMG-0605.gif" width="20%" height=1500>
 
-  <br><br>
+</td>
+<!--TEXT-->
+<td avalign="top">
+  <font color="pink">
+  <p align="center">
 
-  <!-- CENTERED TEXT POEM / QUOTE -->
-   $${\color{#60855E} Please,\ don't\ forget...\ }$$ 
- 
-  $${\color{#60855E} From\ the\ bottom\ of\ my\ heart...\ }$$
-    
-   $${\color{#60855E} I\ am\ truly\ in\ love\ with\ the\ hope\ that\ sleeps\ inside\ you.\ }$$
-  
-  <br><br>
+<br>
+    $${\color{#eb83a6}Please, \ don't \ forget...}$$
+    $${\color{#eb83a6}From \ the \ bottom \ of \ my \ heart...}$$ <br>
+    $${\color{#eb83a6}I \ am \ truly \ in \ love \ with \ the \ hope \ that \ sleeps \ inside \ you.}$$<br>
+    </p>
+    </font> 
+   <p align="center">
+<img src="https://cdn.discordapp.com/attachments/1302663877384736910/1522385891786625034/Untitled225_20260702193756.png?ex=6a4847d9&is=6a46f659&hm=41164fe18adf87400f2973aabb1f87c0d0e790fbf6ef2d4f76b4280c4b2b3ca4&" width="15%">
+    </p>
+</td>
+<!--FINISH TEXT-->
+</tr>
+</table>
+<br>
+<br>
+<!--FINISH TABLE-->
 
-  <!-- MIDDLE GRAPHIC (e.g., Red Folding Fan) -->
-  <img src="https://i.pinimg.com/originals/97/49/11/9749112dcdae7ce62bed8d76ebcf737a.gif" width="175" alt="Center Piece">
-
-  <br><br><br>
-
-  <!-- CUSTOM LINKS WITH UNICODE ICONS -->
-  <font face="monospace">
-    <a href="https://ciciwici.atabook.org/">♡ ata</a> &nbsp;•&nbsp; 
-    <a href="https://guns.lol/ciciwici">♡ guns</a> &nbsp;•&nbsp; 
-    <a href="https://astrosucks.straw.page/">♡ strawpage</a>
-  </font>
-
-  <br><br><br>
-
-  <!-- REPEATING LACE FOOTER DIVIDER -->
-  <img src="https://i.pinimg.com/736x/8f/bc/f0/8fbcf039e0eef909b3981b58daf97d87.jpg" width="450" alt="Lace Divider">
-
+<!-- Banner -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/64/d9/e9/64d9e9da2e50e757e42781a1d649b20a.gif" width="25%">
+    <img src="https://cdn.discordapp.com/attachments/1302663877384736910/1522385375744495827/Untitled225_20260702193552.png?ex=6a48475e&is=6a46f5de&hm=bd2e6b8189e73d137551fb2831cdf3a7f00a752c5e39c8b9a4cc57840ce916de&" width="45%">
+    <img src="https://i.pinimg.com/originals/64/d9/e9/64d9e9da2e50e757e42781a1d649b20a.gif" width="25%">
+   
+</div>
 </div>
