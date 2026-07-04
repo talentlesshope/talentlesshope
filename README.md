@@ -36,7 +36,7 @@
     </p>
     </font> 
    <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1302663877384736910/1522385891786625034/Untitled225_20260702193756.png?ex=6a4847d9&is=6a46f659&hm=41164fe18adf87400f2973aabb1f87c0d0e790fbf6ef2d4f76b4280c4b2b3ca4&" width="15%">
+<img src="https://cdn.discordapp.com/attachments/1302663877384736910/1522385891786625034/Untitled225_20260702193756.png?ex=6a499959&is=6a4847d9&hm=0dfe6c21e578518f7e4658492fcd634e27707fce1b5566d65fdcc0d28ee9a18f&" width="15%">
     </p>
 </td>
 <!--FINISH TEXT-->
