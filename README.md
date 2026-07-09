@@ -36,7 +36,7 @@
     </p>
     </font> 
    <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1302663877384736910/1522385891786625034/Untitled225_20260702193756.png?ex=6a499959&is=6a4847d9&hm=0dfe6c21e578518f7e4658492fcd634e27707fce1b5566d65fdcc0d28ee9a18f&" width="15%">
+<img src="https://media.discordapp.net/attachments/1302663877384736910/1522385891786625034/Untitled225_20260702193756.png?ex=6a5030d9&is=6a4edf59&hm=ef8a091c1061bb7b8381f57aff0c073ed0fdcf8be840509a7ae5b088ca446290&=&format=webp&quality=lossless&width=1852&height=1482" width="15%">
     </p>
 </td>
 <!--FINISH TEXT-->
@@ -49,7 +49,7 @@
 <!-- Banner -->
 <div align="center">
   <img src="https://i.pinimg.com/originals/64/d9/e9/64d9e9da2e50e757e42781a1d649b20a.gif" width="25%">
-    <img src="https://cdn.discordapp.com/attachments/1302663877384736910/1522385375744495827/Untitled225_20260702193552.png?ex=6a48475e&is=6a46f5de&hm=bd2e6b8189e73d137551fb2831cdf3a7f00a752c5e39c8b9a4cc57840ce916de&" width="45%">
+    <img src="https://media.discordapp.net/attachments/1302663877384736910/1522385375744495827/Untitled225_20260702193552.png?ex=6a50305e&is=6a4edede&hm=c2112421758e2665166797d19b6ac74ddda964eef585848155e39b0a21340b2f&=&format=webp&quality=lossless&width=1852&height=1482" width="45%">
     <img src="https://i.pinimg.com/originals/64/d9/e9/64d9e9da2e50e757e42781a1d649b20a.gif" width="25%">
    
 </div>
