@@ -1,4 +1,11 @@
-<!-- BANNER -->
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/1488772524715282575/1529584195909845042/Untitled255_20260722162113.png?ex=6a6277ca&is=6a61264a&hm=8064bb45eb0a963fa95d57ed451cf8d24bf3ad5bcd503e23040fadfd8966bcd5&" width="45%">
+  
+  $${\color{#ecc59d}All \ Might \ My \ King}$$
+</div>
+<details>
+  <summary> Click for Komahina!</summary>
+  <!-- BANNER -->
 <div align="center">
   <img src="https://file.garden/aiDPtHaSGigyN1-N/heart-hearts.gif" width="25%">
   <img src="https://i.pinimg.com/1200x/1b/b5/16/1bb516afdb90aea098d92624ff89d4e9.jpg" width="30%">
@@ -36,7 +43,7 @@
     </p>
     </font> 
    <p align="center">
-<img src="https://media.discordapp.net/attachments/1302663877384736910/1522385891786625034/Untitled225_20260702193756.png?ex=6a5030d9&is=6a4edf59&hm=ef8a091c1061bb7b8381f57aff0c073ed0fdcf8be840509a7ae5b088ca446290&=&format=webp&quality=lossless&width=1852&height=1482" width="15%">
+<img src="https://cdn.discordapp.com/attachments/708980094793809980/1529589633023742094/image.png?ex=6a627cda&is=6a612b5a&hm=8d928b7cf333aaf1445a0f16d23f5cbfcf32e98a1b3c314e24817fd4e9ac2baf&" width="15%">
     </p>
 </td>
 <!--FINISH TEXT-->
@@ -49,8 +56,9 @@
 <!-- Banner -->
 <div align="center">
   <img src="https://i.pinimg.com/originals/64/d9/e9/64d9e9da2e50e757e42781a1d649b20a.gif" width="25%">
-    <img src="https://media.discordapp.net/attachments/1302663877384736910/1522385375744495827/Untitled225_20260702193552.png?ex=6a50305e&is=6a4edede&hm=c2112421758e2665166797d19b6ac74ddda964eef585848155e39b0a21340b2f&=&format=webp&quality=lossless&width=1852&height=1482" width="45%">
+    <img src="https://cdn.discordapp.com/attachments/708980094793809980/1529589633565069523/image.png?ex=6a627cdb&is=6a612b5b&hm=319685f46eb7569beb64c050281a50087860ceb3dad811e5e6fff5bfb514106f&" width="45%">
     <img src="https://i.pinimg.com/originals/64/d9/e9/64d9e9da2e50e757e42781a1d649b20a.gif" width="25%">
    
 </div>
 </div>
+ </details>
