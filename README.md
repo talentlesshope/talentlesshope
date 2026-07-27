@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1488772524715282575/1529584195909845042/Untitled255_20260722162113.png?ex=6a6277ca&is=6a61264a&hm=8064bb45eb0a963fa95d57ed451cf8d24bf3ad5bcd503e23040fadfd8966bcd5&" width="45%">
+<img src="https://cdn.discordapp.com/attachments/708980094793809980/1531315080233484348/Untitled255_20260722162113.png?ex=6a68c3cd&is=6a67724d&hm=26a44fe37081697481226eca031c1a0fce3d58b55e3fd3f28e8074b31b9d511e&" width="45%">
   
   $${\color{#ecc59d}All \ Might \ My \ King}$$
 </div>
