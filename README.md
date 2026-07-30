@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/708980094793809980/1531315080233484348/Untitled255_20260722162113.png?ex=6a68c3cd&is=6a67724d&hm=26a44fe37081697481226eca031c1a0fce3d58b55e3fd3f28e8074b31b9d511e&" width="45%">
+<img src="https://file.garden/amr_aBZRVSxwAnjT/Untitled255_20260722162113.png" width="45%">
   
   $${\color{#ecc59d}All \ Might \ My \ King}$$
 </div>
@@ -43,7 +43,7 @@
     </p>
     </font> 
    <p align="center">
-<img src="https://cdn.discordapp.com/attachments/708980094793809980/1529589633023742094/image.png?ex=6a627cda&is=6a612b5a&hm=8d928b7cf333aaf1445a0f16d23f5cbfcf32e98a1b3c314e24817fd4e9ac2baf&" width="15%">
+<img src="https://file.garden/amr_aBZRVSxwAnjT/Untitled225_20260702193756.png" width="15%">
     </p>
 </td>
 <!--FINISH TEXT-->
@@ -56,7 +56,7 @@
 <!-- Banner -->
 <div align="center">
   <img src="https://i.pinimg.com/originals/64/d9/e9/64d9e9da2e50e757e42781a1d649b20a.gif" width="25%">
-    <img src="https://cdn.discordapp.com/attachments/708980094793809980/1529589633565069523/image.png?ex=6a627cdb&is=6a612b5b&hm=319685f46eb7569beb64c050281a50087860ceb3dad811e5e6fff5bfb514106f&" width="45%">
+    <img src="https://file.garden/amr_aBZRVSxwAnjT/Untitled225_20260702193552.png" width="45%">
     <img src="https://i.pinimg.com/originals/64/d9/e9/64d9e9da2e50e757e42781a1d649b20a.gif" width="25%">
    
 </div>
